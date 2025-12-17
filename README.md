@@ -39,6 +39,7 @@ This project is an interactive ArcGIS Story Map that explores the spatial distri
 
 ## Tools & Technologies
 - ArcGIS Online / ArcGIS Pro  
-- Spatial Analysis Tools: Overlay Analysis, Summarize Nearby  
+- Spatial Analysis Tools: Overlay Analysis, Summarize Nearby - Overlay Analysis and Summarize Nearby were used to identify and summarize volcanoes within 300 km of tectonic boundaries.
+https://algomau.maps.arcgis.com/home/item.html?id=aea939cfdcc849988242b4e48cfc25d5
 - Data Visualization: Interactive maps, bar charts  
 
