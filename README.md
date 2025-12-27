@@ -43,3 +43,4 @@ This project is an interactive ArcGIS Story Map that explores the spatial distri
 https://algomau.maps.arcgis.com/home/item.html?id=aea939cfdcc849988242b4e48cfc25d5
 - Data Visualization: Interactive maps, bar charts  
 
+View the full story map here : https://storymaps.arcgis.com/stories/066d0e21438a4b16a8b499a2b0875b5c
